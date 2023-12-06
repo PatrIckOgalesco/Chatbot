@@ -1,0 +1,16 @@
+{
+  "name": "smartnavigator",
+  "version": "3.7.4",
+  "description": "CPIC Chatbot",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "cpic",
+    "smartnavigator"
+  ],
+  "author": "Patrick Ogalesco",
+  "license": "ISC"
+}
